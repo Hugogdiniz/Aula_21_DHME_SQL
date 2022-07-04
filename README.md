@@ -1,1 +1,6 @@
-# Aula_21_DHME_SQL
+# Colaboradores:
+
+## Ariel Lopes
+## Hugo Diniz
+## Iasmim Vivanco
+## Salomão Kim
